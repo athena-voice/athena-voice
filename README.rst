@@ -10,8 +10,8 @@ Your personal voice assistant. Written in Python.
 
 "Hey Athena" is a 100% open-source, modular voice assistant framework. We aim to do everything that Siri, Cortana, and Echo can do - and more.
 
-| **Website:** https://heyathena.com
-| **Documentation:** https://heyathena.com/docs/
+| **Website:**  https://rcbyron.github.io/hey-athena-website/
+| **Documentation:**  https://rcbyron.github.io/hey-athena-website/docs/
 | **Forum:** https://heyathena.com/forum/
 | **GitHub:** https://github.com/hey-athena/hey-athena-client
 
@@ -27,7 +27,7 @@ Say "Athena" *(wait for double beep)* then...
 -  "Open facebook.com"
 
 Write a simple "module" to control your house with your voice.
-See documentation: https://heyathena.com/docs/
+See documentation:  https://rcbyron.github.io/hey-athena-website/docs/
 
 Don't like the name "Athena"? Change it to anything you want, like "Joe" or "Swagger Bot".
 
